@@ -1,4 +1,4 @@
-# 📦 Amazon Retail Sales Analytics (Power BI)
+# 📦 Amazon Retail Sales Analytics 
 
 ## 🚀 Project Overview
 This project is an Amazon Retail Sales Analytics dashboard built using Power BI, focused on analyzing e-commerce sales data to derive actionable business insights related to revenue, profit, customer behavior, product performance, and regional trends.
